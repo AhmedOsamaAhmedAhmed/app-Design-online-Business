@@ -1,0 +1,160 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+	background-color: white;
+  }
+  .navbar-logo{
+/* width: 43%; */
+/* background-color:#f4e64d ; */
+height:100%;
+/* padding:30px; */
+margin: 30px;
+  }
+  .navbar-logo h2 {
+	font-weight: 700;
+	color: #333;
+	opacity: 0.1;
+/* padding: 30px; */
+  }
+  
+  .navbar-links {
+	padding:0 20px;
+	display: flex;
+	gap: 1rem;
+  }
+  
+  .btn-primary-h {
+	background-color: #d1cdd7;
+	color: white;
+	padding: 0.75rem 1.5rem;
+	border-radius: 0.5rem;
+	border: none;
+	font-weight: 600;
+	cursor: pointer;
+	transition: all 0.3s ease;
+  }
+  
+  .btn-secondary {
+	background-color: transparent;
+	color: #333;
+	padding: 0.75rem 1.5rem;
+	border-radius: 0.5rem;
+	border: underline;
+	font-weight: 600;
+	cursor: pointer;
+  }
+  .btn-secondary:hover{
+	border:none;
+  }
+
+
+
+ /* hero */
+
+ /* .hero {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 4rem;
+	padding: 4rem 2rem;
+	
+	min-height: 80vh;
+	position: relative;
+	overflow: hidden;
+  }
+  
+  .hero-content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 2rem;
+	max-width: 600px;
+  }
+  
+  .hero-content h1 {
+	font-size: 3.5rem;
+	font-weight: 800;
+	line-height: 1.2;
+	color: #1f2937;
+  }
+  
+  .search-container {
+	display: flex;
+	gap: 0.5rem;
+	background: white;
+	padding: 0.5rem;
+	border-radius: 0.5rem;
+	box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  }
+  
+  .search-input {
+	flex: 1;
+	border: none;
+	padding: 0.75rem;
+	font-size: 1rem;
+	outline: none;
+  }
+  
+  .search-button {
+	background: #7c3aed;
+	color: white;
+	border: none;
+	padding: 0.75rem;
+	border-radius: 0.375rem;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+  
+  .hero-image {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #f4e64d;
+  }
+  
+  .profile-image {
+	width: 100%;
+	max-width: 400px;
+	height: auto;
+	border-radius: 2rem;
+	object-fit: cover;
+  }
+  
+  .profile-card {
+	position: absolute;
+	bottom: 2rem;
+	left: 50%;
+	transform: translateX(-50%);
+	background: white;
+	padding: 1rem;
+	border-radius: 1rem;
+	box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+  }
+  
+  .avatar {
+	width: 48px;
+	height: 48px;
+	border-radius: 50%;
+	object-fit: cover;
+  }
+  
+  .profile-info h3 {
+	font-weight: 600;
+	color: #1f2937;
+	margin: 0;
+  }
+  
+  .profile-info p {
+	color: #6b7280;
+	margin: 0;
+	font-size: 0.875rem;
+  } */
+
+
